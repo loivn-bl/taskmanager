@@ -1,0 +1,5 @@
+Third Update:)
+    Colors tweak
+    New infomation tab
+    Scaleable progress
+    Catching some bugs

@@ -1,0 +1,5 @@
+tk
+ttkthemes
+datetime
+pandas
+reportlab
