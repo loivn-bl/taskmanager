@@ -1,0 +1,5 @@
+First Version:)
+    Add tasks
+    Sort tasks (by filters)
+    Checktasks
+    Task statistics

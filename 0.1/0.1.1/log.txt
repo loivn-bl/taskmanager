@@ -1,0 +1,6 @@
+First Update:)
+    Better UI
+    Added tabs
+    Tasks save
+    Import & export files (JSON/CSV/Excel/PDF)
+    More detailed statistics
