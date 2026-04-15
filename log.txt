@@ -1,0 +1,17 @@
+- Version 0.1.0:
+  Added the ability to add/delete tasks.
+  Sort tasks by filter.
+  Manage task levels (completed/not completed).
+  Show task progress statistics.
+- Version 0.1.1:
+  Improved UI (user interface).
+  Improved statistics.
+  Added the ability to save tasks.
+  Added the ability to back up and restore task files.
+  Added the ability to export reports (JSON/CSV/Excel/PDF/Plain text).
+- Version 0.1.2 (April 12, 10:37 AM):
+  Added dark mode (experimental).
+  Code optimization.
+- Version 0.1.3 (April 12, 8:51 PM):
+  Increased color contrast.
+  Added the ability to edit the progress bar (from 0-100%).
